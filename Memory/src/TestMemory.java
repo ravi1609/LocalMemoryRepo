@@ -25,7 +25,7 @@ public class TestMemory {
         //Print Maximum available memory
         System.out.println("Max Memory:" + runtime.maxMemory() / mb);
         
-        
+        System.out.println("this line is added for the change in the code");
         
         
     }
